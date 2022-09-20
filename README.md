@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋 Hi, I'm Heron Lancellot.
+- 🖥️ Currently studying Information Systems at Federal Fluminense University.
+- ☕ Currently studying Solidity, Truffle, Hardhat, Blockchain.
 
 <!--
 **heronlancellot/heronlancellot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
