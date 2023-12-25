@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Heron Lancellot.
 - 🖥️ Currently studying Information Systems at Federal Fluminense University.
-- ☕ Currently studying Solidity, Foundry, Hardhat, Blockchain.
 
+- 🌱 Brazilian Web3 Frontend Developer 
 <!--
 **heronlancellot/heronlancellot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,11 +33,10 @@ Here are some ideas to get you started:
 <!-- TECNOLOGIAS -->
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![React Js](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![Next Js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
 </div>
 
