@@ -51,9 +51,3 @@
   </a>
 </div>
 
----
-
-## 📈 Visitors
-<div align="center">
-  ![](https://visitor-badge.glitch.me/badge?page_id=heronlancellot)
-</div>
