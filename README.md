@@ -12,7 +12,7 @@
   - **1st Place** at the Web3Dev Hackathon for a **NFT Activities Marketplace**.
   - **1st Place** at the King Of Devs Brazil Hackathon for the **Web3Task** project.
   - **1st Place** in multiple categories at the **Eth Samba Hackathon** for the **FairOverlord** project.
-- 🌱 Currently exploring advanced React and blockchain solutions.
+- 🌱 Currently exploring advanced React and web3 blockchain solutions.
 
 ---
 
